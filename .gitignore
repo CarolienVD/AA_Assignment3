@@ -1,3 +1,5 @@
 spark
 data
+models
+results
 .ipynb_checkpoints
